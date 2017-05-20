@@ -1,0 +1,14 @@
+MANIFEST.in
+webApp/app.py
+webApp/schema.sql
+webApp.egg-info/PKG-INFO
+webApp.egg-info/SOURCES.txt
+webApp.egg-info/dependency_links.txt
+webApp.egg-info/requires.txt
+webApp.egg-info/top_level.txt
+webApp/static/style.css
+webApp/templates/hello.html
+webApp/templates/index.html
+webApp/templates/layout.html
+webApp/templates/login.html
+webApp/templates/show_entries.html
